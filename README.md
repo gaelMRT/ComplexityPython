@@ -38,6 +38,7 @@ Création du tableau
 Pour garantir le bon fonctionnement on peut afficher le premier élément du tableau ainsi
 que le dernier. Attention ce programme ne fonctionne qu'avec une longueur de tableau
 paire.
+
 3. Performance d'accès disque
 On fait une boucle qui ouvre un fichier dans lequel on écrit la valeur n, puis qui ferme le
 fichier. La boucle doit faire au moins 1'000'000 de tours (1 millions) et donc d'accès disque.
